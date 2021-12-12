@@ -13,3 +13,5 @@ clean:
 	rm worker.o
 	rm interface
 	rm worker
+	rm pToC
+	rm cToP
